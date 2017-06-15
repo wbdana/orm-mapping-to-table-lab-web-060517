@@ -3,6 +3,6 @@ source "https://rubygems.org"
 
 # gem "rails"
 
-gem 'pry'
+gem 'pry-byebug'
 gem 'sqlite3'
 gem 'rspec'
